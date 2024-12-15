@@ -5,7 +5,7 @@
 ## 📜 Available Scripts (as of now)
 
 - **Quadratic Solver**: Solve any quadratic equation and get real or complex roots.
-- **Proportional Solver**: Quickly solve problems involving proportions, including those with negative and complex values.
+- **Proportional Solver**: Quickly solve problems involving proportions.
 
 More scripts will be added as the project evolves!
 
