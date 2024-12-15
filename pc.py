@@ -30,7 +30,7 @@ def solve_proportion(a1, a2, b1, b2):
         raise ValueError("One value must be 'x'.")
 
 def main():
-    print("Solving proportion a1/a2 = b1/b2")
+    print("Solving the proportion a1/a2 = b1/b2")
     a1 = get_value("Enter a1: ")
     a2 = get_value("Enter a2: ")
     b1 = get_value("Enter b1: ")
